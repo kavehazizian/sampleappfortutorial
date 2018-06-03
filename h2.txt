@@ -8,4 +8,5 @@ indi gorax na oldi
 taza branchda avaz eladim
 h2 ni avaz eladim yekshanba yoni
 isidiam goram boni merg elasam na olajax.
+axir commit.
 
