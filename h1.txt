@@ -10,6 +10,6 @@ daishajaxx
 I am changing sth on H1.text on Sunday
 <<<<<<< HEAD
 I am renaming th ebranch
-=======
+
 This is done in GiyHub.
->>>>>>> 00493ce7039797dd0ec30c78368aedb76ae540a8
+
