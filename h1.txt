@@ -11,3 +11,4 @@ I am changing sth on H1.text on Sunday
 
 This is done in GiyHub.
 fetch ikinji h1.
+fetch 3vomi h1.
