@@ -11,8 +11,11 @@ isidiam goram boni merg elasam na olajax.
 axir commit.
 this time changes in h2 from git hub.
 This he conflictline!
-git fech training.
-fetch dovomi h2.
-New conflict from remote.
-conflict jadid h2.
+
+
+
+
+h2 ayrisi.
+axir xat.
+h2 ni da dayishdim.
 
