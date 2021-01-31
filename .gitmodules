@@ -1,3 +1,6 @@
 [submodule "Sample-Codes"]
 	path = Sample-Codes
 	url = https://github.com/kavehazizian/Sample-Codes.git
+[submodule "Coursera-IBM-Course"]
+	path = Coursera-IBM-Course
+	url = https://github.com/kavehazizian/Coursera-IBM-Course
